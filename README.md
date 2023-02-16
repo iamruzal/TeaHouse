@@ -1,5 +1,6 @@
 # TeaHouse
 Course work (TeaHouse). WPF app (XAML, C#). MySql database
+Одноуровневая архитектура. Клиент - сервер(бд)
 Use Case
 ![image](https://user-images.githubusercontent.com/71073546/219472977-85ced315-2412-4f78-8ee2-1b8bd18043ec.png)
 User Windows (4LR)
