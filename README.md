@@ -1,4 +1,6 @@
 # TeaHouse
+https://ruzals-organization.gitbook.io/rukovodstvo-polzovatelya/
+
 Course work (TeaHouse). WPF app (XAML, C#). MySql database
 Одноуровневая архитектура. Клиент - сервер(бд)
 Use Case
